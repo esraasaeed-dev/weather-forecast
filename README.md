@@ -36,14 +36,6 @@ Run the application:
 ```bash
 python weather_forecast.py
 ```
-## Project Structure
-```text
 
-weather-forecast/
-├── weather_forecast.py
-├── icon.png
-├── planning.png
-└── README.md
-```
 ## Learning Context
 This project was developed while learning Python fundamentals as part of the Front-End Diploma at Al-Madrasa.
