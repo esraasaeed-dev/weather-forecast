@@ -38,4 +38,4 @@ python weather_forecast.py
 ```
 
 ## Learning Context
-This project was developed while learning Python fundamentals as part of the Front-End Diploma at Al-Madrasa.
+This project was developed while learning Python fundamentals as part of the Front-End Diploma at Almadrasa.
